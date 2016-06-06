@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A组</key>
+	<array>
+		<string>A1-法国</string>
+		<string>A2-罗马尼亚</string>
+		<string>A3-阿尔巴尼亚</string>
+		<string>A4-瑞士</string>
+	</array>
+	<key>B组</key>
+	<array>
+		<string>B1-英格兰</string>
+		<string>B2-俄罗斯</string>
+		<string>B3-威尔士</string>
+		<string>B4-斯洛伐克</string>
+	</array>
+	<key>C组</key>
+	<array>
+		<string>C1-德国</string>
+		<string>C2-乌克兰</string>
+		<string>C3-波兰</string>
+		<string>C4-北爱尔兰</string>
+	</array>
+	<key>D组</key>
+	<array>
+		<string>D1-西班牙</string>
+		<string>D2-捷克</string>
+		<string>D3-土耳其</string>
+		<string>D4-克罗地亚</string>
+	</array>
+	<key>E组</key>
+	<array>
+		<string>E1-比利时</string>
+		<string>E2-意大利</string>
+		<string>E3-爱尔兰</string>
+		<string>E4-瑞典</string>
+	</array>
+	<key>F组</key>
+	<array>
+		<string>F1-葡萄牙</string>
+		<string>F2-冰岛</string>
+		<string>F3-奥地利</string>
+		<string>F4-匈牙利</string>
+		<string></string>
+	</array>
+</dict>
+</plist>

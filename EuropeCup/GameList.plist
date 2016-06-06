@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>6月11日</key>
+	<array>
+		<string>3：00 法国 VS 罗马尼亚</string>
+		<string>21：00 阿尔巴尼亚 VS 瑞士</string>
+	</array>
+	<key>6月12日</key>
+	<array>
+		<string>0：00 威尔士 VS 斯洛伐克</string>
+		<string>3：00 英格兰 VS 俄罗斯</string>
+		<string>21：00 土耳其 VS 克罗地亚</string>
+	</array>
+	<key>6月13日</key>
+	<array>
+		<string>0：00 波兰 VS 北爱尔兰</string>
+		<string>3：00 德国 VS 乌克兰</string>
+		<string>21：00 西班牙 VS 捷克</string>
+	</array>
+	<key>6月14日</key>
+	<array>
+		<string>0：00 爱尔兰 VS 瑞典</string>
+		<string>3：00 比利时 VS 意大利</string>
+	</array>
+	<key>6月15日</key>
+	<array>
+		<string>0：00 奥地利 VS 匈牙利</string>
+		<string>3：00 葡萄牙 VS 冰岛</string>
+		<string>21：00 俄罗斯 VS 斯洛伐克</string>
+	</array>
+	<key>6月16日</key>
+	<array>
+		<string>0：00 罗马尼亚 VS 瑞士</string>
+		<string>3：00 法国 VS 阿尔巴尼亚</string>
+		<string>21：00 英格兰 VS 威尔士</string>
+	</array>
+	<key>6月17日</key>
+	<array>
+		<string>0：00 乌克兰 VS 北爱尔兰</string>
+		<string>3：00 德国 VS 波兰</string>
+		<string>21：00 意大利 VS 瑞典</string>
+	</array>
+	<key>6月18日</key>
+	<array>
+		<string>0：00 捷克 VS 克罗地亚</string>
+		<string>3：00 西班牙 VS 土耳其</string>
+		<string>21：00 比利时 VS 爱尔兰</string>
+	</array>
+	<key>6月19日</key>
+	<array>
+		<string>0：00 冰岛 VS 匈牙利</string>
+		<string>3：00 葡萄牙 VS 奥地利</string>
+	</array>
+	<key>6月20日</key>
+	<array>
+		<string>3：00 罗马尼亚 VS 阿尔巴尼亚</string>
+		<string>3：00 瑞士 VS 法国</string>
+	</array>
+	<key>6月21日</key>
+	<array>
+		<string>3：00 俄罗斯 VS 威尔士</string>
+		<string>3：00 斯洛伐克 VS 英格兰</string>
+	</array>
+	<key>6月22日</key>
+	<array>
+		<string>0：00 乌克兰 VS 波兰</string>
+		<string>0：00 北爱尔兰 VS 德国</string>
+		<string>3：00 捷克 VS  土耳其</string>
+	</array>
+	<key>6月23日</key>
+	<array>
+		<string>0：00 冰岛 VS 奥地利</string>
+		<string>0：00 匈牙利 VS 葡萄牙</string>
+		<string>3：00 意大利 VS 爱尔兰</string>
+		<string>3：00 瑞典 VS 比利时</string>
+		<string></string>
+	</array>
+</dict>
+</plist>
